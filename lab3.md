@@ -1,6 +1,6 @@
 # Lab-3
 
-For this lab, please only write the required function.  Please use the skeleton code is "problem<n>.h" and "problem<n>.cpp", where n is the problem number.  For problem 1, we will provide problem1.h and problem1.cpp with initial function prototypes.  Simply fill in the code an submit the final version.  If you need to write help functions, please include them in the "problem<n>cpp" file and be sure to add their function prototype to the "problem<n>.h" file.
+For this lab, please only write the required function.  Please use the [skeleton code](https://github.com/jortizcs-rutgers/PM1-public/tree/master/lab3) is "problem<n>.h" and "problem<n>.cpp", where n is the problem number.  For problem 1, we will provide problem1.h and problem1.cpp with initial function prototypes.  Simply fill in the code an submit the final version.  If you need to write help functions, please include them in the "problem<n>cpp" file and be sure to add their function prototype to the "problem<n>.h" file.
 
 ## Problem 1
 
