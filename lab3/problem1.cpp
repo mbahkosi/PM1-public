@@ -1,5 +1,5 @@
 #include "problem1.h"
 
-void reverse(int[], int){
+void reverseArray(int arr[], int start, int end){
     //write your code here
 }
