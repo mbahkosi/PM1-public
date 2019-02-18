@@ -4,20 +4,25 @@ For this lab, please only write the required function.  Please use the [skeleton
 
 ## Problem 1
 
-Write a function to reverse an array of integers.  Please add your code to problem1.h and problem1.cpp, as provided.
+Write a function to reverse an array of integers starting from a given start index and a given end index.  Note, the end index is inclusive.  Please add your code to problem1.h and problem1.cpp, as provided.
 
 Function prototype:
 ```
-void reverse(int[], len);
+void reverse(int[],int,int);
+
 int[] a = {1,2,3};
-reverse(a, 3);
-The content of a should be {3,2,1}.
+reverse(a, 0, 2);
+//The content of a should be {3,2,1}.
+
+int[] a = {1,2,3};
+reverse(a, 0, 1);
+//The content of a should be {2,1,3}.
 ```
 
 
 
 ## Problem 2
-Write a function that performs a number of right circular rotations from index L to index R and return the value of the given index after all rotations have been performed.  Please add your code to problem2.h and problem2.cpp as provided.
+Write a function that performs a given number of right circular rotations -- each performed from index L to index R and specified as an input parameter -- and returns the value at the given index of the array, after all rotations have been performed.  Please add your code to problem2.h and problem2.cpp as provided.
 
 ```
 Input : arr[] : {1, 2, 3, 4, 5}
