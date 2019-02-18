@@ -1,10 +1,10 @@
 # Lab-3
 
-For this lab, please only write the required function.  Please use the [skeleton code](https://github.com/jortizcs-rutgers/PM1-public/tree/master/lab3) is "problem**n**.h" and "problem**n**.cpp", where **n** is the problem number.  For problem 1, we will provide problem1.h and problem1.cpp with initial function prototypes.  Simply fill in the code an submit the final version.  If you need to write help functions, please include them in the "problem<n>cpp" file and be sure to add their function prototype to the "problem<n>.h" file.
+For this lab, please only write the required function.  Please use the [skeleton code](https://github.com/jortizcs-rutgers/PM1-public/tree/master/lab3) is "problem**n**.h" and "problem**n**.cpp", where **n** is the problem number.  For problem 1, we will provide problem1.h and problem1.cpp with initial function prototypes.  Simply fill in the code an submit the final version.  If you need to write helper functions, please include them in the "problem**n**.cpp" file and be sure to add their function prototype to the "problem**n**.h" file.
 
 ## Problem 1
 
-Write a function to reverse an array of integers starting from a given start index and a given end index.  Note, the end index is inclusive.  Please add your code to problem1.h and problem1.cpp, as provided.
+Write a function to reverse an array of integers starting from a given **start** index and a given **end** index.  Note, the end index is **inclusive**.  Please add your code to problem1.h and problem1.cpp, as provided.
 
 Function prototype:
 ```
@@ -22,7 +22,7 @@ reverse(a, 0, 1);
 
 
 ## Problem 2
-Write a function that performs a given number of right circular rotations -- each performed from index L to index R and specified as an input parameter -- and returns the value at the given index of the array, after all rotations have been performed.  Please add your code to problem2.h and problem2.cpp as provided.
+Write a function that performs a given number of **right circular rotations** -- each performed from index L to index R and specified as an input parameter -- and returns the value at the given index of the array after all rotations have been performed.  Please add your code to problem2.h and problem2.cpp as provided.
 
 ```
 Input : arr[] : {1, 2, 3, 4, 5}
@@ -40,7 +40,7 @@ index 1.
 
 ## Problem 3
 
-Given a matrix, clockwise rotate elements in it.  Please add the code to problem3.h and problem3.cpp, provided.
+Given a matrix, clockwise-rotate elements in it.  Please add the code to problem3.h and problem3.cpp, provided.
 
 ```
 Input
