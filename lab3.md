@@ -8,14 +8,14 @@ Write a function to reverse an array of integers starting from a given **start**
 
 Function prototype:
 ```
-void reverse(int[],int,int);
+void reverseArray(int[],int,int);
 
 int[] a = {1,2,3};
-reverse(a, 0, 2);
+reverseArray(a, 0, 2);
 //The content of a should be {3,2,1}.
 
 int[] a = {1,2,3};
-reverse(a, 0, 1);
+reverseArray(a, 0, 1);
 //The content of a should be {2,1,3}.
 ```
 
