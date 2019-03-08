@@ -19,7 +19,7 @@ Output: Pattern found at index 0
 
 
 ## Problem 2
-Given a sorted array of String and a String x, find index of x if it is present in the array.
+Given a sorted array of String and a String x, find index of x if it is present in the array using binary search.
 
 ```
 Input :  arr[] = { "contribute", "geeks", "ide", "practice"}, x = "ide"
